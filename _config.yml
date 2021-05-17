@@ -5,7 +5,7 @@ setting:
 
   gitee_friends_links: # gitee友链配置
     enable: false
-    type: normal # volantis用户请在这里填写 volantis
+    type: volantis # volantis用户请在这里填写 volantis
     owner: akilar # 填写你的gitee用户名
     repo: friend_link # 填写你的gitee仓库名
     state: open # 填写抓取的issue状态(open/progressing/closed)
